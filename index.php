@@ -2,7 +2,7 @@
 // +----------------------------------------------------------------------
 // | Copyright (c) 2023 https://gitee.com/fpointzero/web-course-development All rights reserved.
 // +----------------------------------------------------------------------
-// | Author: 刘洋 | FPoint <fpointzero@foxmail.com>
+// | Author: FPoint <fpointzero@foxmail.com>
 // +----------------------------------------------------------------------
 
 session_start();
